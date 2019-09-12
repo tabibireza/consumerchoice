@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1564809840262.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1473916432",
+    "id" : "FC052C2D",
+    "lastKnownWriteTime" : 1564823395,
+    "last_content_update" : 1564823395185,
+    "path" : "C:/rezawork/study/r-studio/projects/consumerchoice/consumerchoice/consumerchoice.R",
+    "project_path" : "consumerchoice.R",
+    "properties" : {
+        "cursorPosition" : "109,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

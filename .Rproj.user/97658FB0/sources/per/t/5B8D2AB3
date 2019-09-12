@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1564820217919.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "5B8D2AB3",
+    "lastKnownWriteTime" : 7813877730276303717,
+    "last_content_update" : 1564820217919,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "9e20cd75217d4fc6889aeb044ad0d8d7",
+        "name" : "reduced.model",
+        "title" : "reduced.model"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}
